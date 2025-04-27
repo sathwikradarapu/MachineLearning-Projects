@@ -73,10 +73,4 @@ This project predicts the risk of stroke in a patient based on health and lifest
 
 4. Ensure that the trained model files (like `model.pkl`) are present in the project folder.
 
-## 📄 License
-
-This repository is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 Developed with ❤️ by **Sathwik Radarapu**
